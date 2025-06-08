@@ -325,3 +325,17 @@ ul a {
 .footer .foot-panel3 .logo {
     animation: rotate 4s linear infinite;
 }
+@media screen and (max-width: 768px) {
+    .navbar a {
+        display: block;
+        float: none;
+        margin-right: 0;
+        text-align: left;
+    }
+
+    .nav-search {
+        flex-direction: column;
+        width: 100%;
+    }
+}
+
