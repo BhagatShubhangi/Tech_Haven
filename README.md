@@ -1,4 +1,4 @@
-#Tech_Haven
+
 
 # Tech Haven
 
@@ -25,7 +25,7 @@
 - CSS3
 - Font Awesome (via CDN)
 
-## 📸 Screenshots
+## 💡 Tech Haven – Live Preview
 
 
 
